@@ -1,0 +1,6 @@
+I:\MvcProject\Webdesign\Webdesign\bin\Webdesign.dll.config
+I:\MvcProject\Webdesign\Webdesign\bin\Webdesign.dll
+I:\MvcProject\Webdesign\Webdesign\bin\Webdesign.pdb
+I:\MvcProject\Webdesign\Webdesign\obj\Debug\Webdesign.dll
+I:\MvcProject\Webdesign\Webdesign\obj\Debug\Webdesign.pdb
+I:\MvcProject\Webdesign\Webdesign\obj\Debug\Webdesign.csprojResolveAssemblyReference.cache
